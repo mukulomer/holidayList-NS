@@ -13,7 +13,6 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>List Of cities</h1>
       <ol>
         <li key={"location1"}>Goa(India) </li>
         <li key={"location2"}>Amsterdam(Netherlands) </li>
